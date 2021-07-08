@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: zectre.github.io
+Token: 088d381a5c626e7f655ab5f9527996bfa80c58c3743123b74e7b35ada8bb78e9
