@@ -1,5 +1,8 @@
 # Welcome to My Page
 
+## About me
+Hi, my name is Yoga Triardhana also known as zectre in internet. I am passionate about geospatial data processing and really excited with the development of geospatial data processing especially in Deep Learning. I was graduated with my bachelor major in Geodetic Engineering and now I am still learning something new everyday.
+
 ## What is this page about?
 This page is mainly discuss about anything geospatial related stuffs from geospatial databases, geospatial data processing (raster and vector), and many more.
 Check my pages on link below for more post about geospatial data processing.
